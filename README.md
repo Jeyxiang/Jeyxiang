@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeyxiang
 - 👀 I’m interested in software development and building analytical models!
-- 🌱 I’m currently learning the basics on data structures and algorithms
+- 🌱 I’m currently embarking on a web development project!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
