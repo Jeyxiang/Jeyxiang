@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeyxiang or Jian Xiang, A second year Business Analytics Student from NUS.
+- 👋 Hi, I’m @Jeyxiang or Jian Xiang, A third year Business Analytics Student from NUS.
 - 👀 I’m interested in software development, data analytics and machine learning!
 - 🌱 I’m currently embarking on a web development project!
 - 💞️ I’m looking to collaborate on any projects!
